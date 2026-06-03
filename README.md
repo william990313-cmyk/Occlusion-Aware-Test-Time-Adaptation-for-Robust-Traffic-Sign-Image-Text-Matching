@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28538918/README.md)
 # Occlusion-Aware Test-Time Adaptation for Robust Traffic Sign Image-Text Matching
 
 This repository contains the research code and representative assets for the
